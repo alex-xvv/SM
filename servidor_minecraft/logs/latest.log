@@ -283,3 +283,13 @@
 [03:18:28] [Server thread/INFO]: [ShulkerBoxTooltip] Elpucarlino: protocol version: 2.0
 [03:19:14] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
 [03:20:22] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
+[03:24:32] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[03:24:32] [Server thread/INFO]: Elpucarlino left the game
+[03:26:04] [Server thread/INFO]: Elpucarlino[/127.25.77.19:54971] logged in with entity id 16892 at (-2364.1432000675745, 65.0, 1537.0458832082054)
+[03:26:04] [Server thread/INFO]: Loading config from file...
+[03:26:04] [Server thread/INFO]: Elpucarlino joined the game
+[03:26:13] [Server thread/INFO]: [ShulkerBoxTooltip] Elpucarlino: protocol version: 2.0
+[03:28:53] [Server thread/INFO]: Locating element minecraft:cherry_grove took 295 ms
+[03:29:11] [Server thread/INFO]: Locating element minecraft:cherry_grove took 294 ms
+[03:29:13] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -3430.500000, 80.000000, 2099.500000]
+[03:29:21] [Server thread/INFO]: [luisb250: Teleported luisb250 to -3434.500000, 80.000000, 2099.500000]

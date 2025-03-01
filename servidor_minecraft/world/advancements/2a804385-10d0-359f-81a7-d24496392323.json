@@ -14,6 +14,7 @@
       "minecraft:sparse_jungle": "2025-03-01 02:59:31 +0000",
       "minecraft:jungle": "2025-03-01 02:53:07 +0000",
       "minecraft:river": "2025-03-01 01:49:23 +0000",
+      "minecraft:stony_shore": "2025-03-01 03:25:14 +0000",
       "minecraft:lush_caves": "2025-03-01 02:53:22 +0000",
       "minecraft:bamboo_jungle": "2025-03-01 03:03:14 +0000"
     },
@@ -356,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 03:23:33 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-03-01 02:49:39 +0000",
@@ -364,6 +371,12 @@
       "incendium:withered_forest": "2025-03-01 02:48:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 03:23:33 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -374,6 +387,12 @@
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-03-01 02:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 03:23:33 +0000"
     },
     "done": true
   },
