@@ -12,9 +12,12 @@
       "minecraft:deep_dark": "2025-03-01 02:53:41 +0000",
       "minecraft:sparse_jungle": "2025-03-01 02:59:36 +0000",
       "minecraft:jungle": "2025-03-01 02:53:20 +0000",
+      "minecraft:cherry_grove": "2025-03-01 03:29:14 +0000",
       "minecraft:river": "2025-03-01 03:18:45 +0000",
       "minecraft:lush_caves": "2025-03-01 02:53:06 +0000",
-      "minecraft:bamboo_jungle": "2025-03-01 03:03:08 +0000"
+      "minecraft:savanna": "2025-03-01 03:33:54 +0000",
+      "minecraft:bamboo_jungle": "2025-03-01 03:03:08 +0000",
+      "minecraft:plains": "2025-03-01 03:33:47 +0000"
     },
     "done": false
   },
@@ -188,7 +191,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-01 03:44:29 +0000",
       "minecraft:skeleton": "2025-03-01 02:36:19 +0000",
+      "minecraft:vindicator": "2025-03-01 03:45:45 +0000",
       "minecraft:zombie": "2025-03-01 03:19:39 +0000"
     },
     "done": false
@@ -544,6 +549,48 @@
       "cooked_porkchop": "2025-03-01 03:13:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-01 03:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-01 03:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-01 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-01 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-01 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-03-01 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-01 03:32:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

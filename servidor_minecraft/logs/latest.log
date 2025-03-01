@@ -293,3 +293,8 @@
 [03:29:11] [Server thread/INFO]: Locating element minecraft:cherry_grove took 294 ms
 [03:29:13] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -3430.500000, 80.000000, 2099.500000]
 [03:29:21] [Server thread/INFO]: [luisb250: Teleported luisb250 to -3434.500000, 80.000000, 2099.500000]
+[03:43:23] [Server thread/INFO]: Locating element minecraft:village_savanna took 18 ms
+[03:43:25] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -3663.500000, 69.000000, 2480.500000]
+[03:43:33] [Server thread/INFO]: Locating element minecraft:village_savanna took 0 ms
+[03:43:39] [Server thread/INFO]: [luisb250: Teleported luisb250 to -3663.500000, 69.000000, 2480.500000]
+[03:44:29] [Server thread/INFO]: Elpucarlino has made the advancement [Voluntary Exile]
