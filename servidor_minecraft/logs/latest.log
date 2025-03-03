@@ -1,7 +1,10 @@
-[00:29:55] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[00:29:55] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[01:21:04] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[01:21:04] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[00:29:55] [main/INFO]: Loading 70 mods:
+[01:21:05] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[01:21:05] [main/INFO]: Loading 75 mods:
 	- architectury 13.0.8
 	- artifacts 12.0.6
 	   |-- cardinal-components-base 6.1.0
@@ -15,6 +18,8 @@
 	- creeperoverhaul 4.0.6
 	   \-- com_teamresourceful_resourceful-cosmetics-4j 1.0.3
 	- dungeons_arise 2.1.60
+	- easyanvils 21.1.0
+	- easymagic 21.1.0
 	- fabric-api 0.115.0+1.21.1
 	   |-- fabric-api-base 0.4.42+6573ed8c19
 	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
@@ -66,15 +71,20 @@
 	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 21.1.3
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
 	- friendsandfoes 3.0.6
 	- frycparry 6.3.1+1.21
 	- geckolib 4.7.3
 	- incendium 5.4.3
+	- inventorymanagement 1.6.0
 	- jade 15.9.2+fabric
 	- java 21
 	- jei 19.21.0.247
 	- minecraft 1.21.1
 	- placeholder-api 2.4.1+1.21
+	- puzzleslib 21.1.27
 	- resourcefulconfig 3.0.8
 	- resourcefullib 3.0.11
 	   |-- com_teamresourceful_bytecodecs 1.1.2
@@ -86,87 +96,86 @@
 	   \-- cardinal-components-entity 6.1.0
 	- xaerominimap 25.0.0
 	- xaeroworldmap 1.39.2
-[00:29:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SM/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:29:55] [main/INFO]: Compatibility level set to JAVA_16
-[00:29:55] [main/INFO]: Compatibility level set to JAVA_21
-[00:29:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:30:04] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[00:30:04] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[00:30:04] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[00:30:04] [main/ERROR]: No data fixer registered for artifacts:mimic
-[00:30:04] [main/ERROR]: No data fixer registered for jungle_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for bamboo_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for desert_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for badlands_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for hills_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for savannah_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for mushroom_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for swamp_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for dripstone_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for cave_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for spruce_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for beach_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for snowy_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for ocean_creeper
-[00:30:04] [main/ERROR]: No data fixer registered for birch_creeper
-[00:30:04] [main/INFO]: ExpandAbility here, who dis?
-[00:30:05] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:30:05] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:30:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:30:05] [main/INFO]: Found new data pack artifacts, loading it automatically
-[00:30:05] [main/INFO]: Found new data pack trinkets, loading it automatically
-[00:30:06] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[00:30:06] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[00:30:06] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[00:30:06] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[00:30:07] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[00:30:08] [main/INFO]: Loaded 1315 recipes
-[00:30:08] [main/INFO]: Loaded 1478 advancements
-[00:30:09] [main/INFO]: Applied 249 biome modifications to 53 of 72 new biomes in 19.52 ms
-[00:30:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:30:09] [Server thread/INFO]: Loading properties
-[00:30:09] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:09] [Server thread/INFO]: Generating keypair
-[00:30:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:09] [Server thread/INFO]: Using epoll channel type
-[00:30:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:30:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:30:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:30:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:30:09] [Server thread/INFO]: Preparing level "world"
-[00:30:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:30:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:12] [Server thread/INFO]: Time elapsed: 526 ms
-[00:30:12] [Server thread/INFO]: Done (3.028s)! For help, type "help"
-[00:30:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[00:30:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[00:30:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[00:30:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[00:30:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[00:30:12] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:30:12] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[00:30:33] [Server thread/INFO]: Elpucarlino[/127.25.77.19:34079] logged in with entity id 68 at (-351.30000001192093, 63.0, 88.12379528394285)
-[00:30:33] [Server thread/INFO]: Elpucarlino joined the game
-[00:31:10] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[00:31:10] [Server thread/INFO]: Elpucarlino left the game
-[00:32:40] [Server thread/INFO]: Elpucarlino[/127.25.77.19:46505] logged in with entity id 284 at (-351.30000001192093, 63.0, 88.12379528394285)
-[00:32:40] [Server thread/INFO]: Elpucarlino joined the game
-[00:33:54] [Server thread/INFO]: Elpucarlino has made the advancement [Amateur Archaeologist]
-[00:34:27] [Server thread/INFO]: Elpucarlino has made the advancement [Chest Slayer]
-[00:36:18] [Server thread/INFO]: Elpucarlino has made the advancement [Cover Me with Diamonds]
-[00:41:03] [Server thread/INFO]: Elpucarlino has made the advancement [Ice Bucket Challenge]
-[00:41:26] [Server thread/INFO]: Elpucarlino has made the advancement [Monster Hunter]
-[00:49:15] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[00:49:15] [Server thread/INFO]: Elpucarlino left the game
-[00:49:26] [Server thread/INFO]: Stopping the server
-[00:49:26] [Server thread/INFO]: Stopping server
-[00:49:26] [Server thread/INFO]: Saving players
-[00:49:26] [Server thread/INFO]: Saving worlds
-[00:49:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:49:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:49:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:49:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:49:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:49:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:49:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:21:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SM/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:21:05] [main/INFO]: Compatibility level set to JAVA_16
+[01:21:05] [main/INFO]: Compatibility level set to JAVA_21
+[01:21:05] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:21:13] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[01:21:13] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[01:21:13] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[01:21:13] [main/ERROR]: No data fixer registered for artifacts:mimic
+[01:21:13] [main/ERROR]: No data fixer registered for jungle_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for bamboo_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for desert_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for badlands_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for hills_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for savannah_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for mushroom_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for swamp_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for dripstone_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for cave_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for spruce_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for beach_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for snowy_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for ocean_creeper
+[01:21:13] [main/ERROR]: No data fixer registered for birch_creeper
+[01:21:13] [main/INFO]: Constructing common components for easyanvils:main
+[01:21:13] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[01:21:13] [main/INFO]: Constructing common components for easymagic:main
+[01:21:13] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[01:21:13] [main/INFO]: ExpandAbility here, who dis?
+[01:21:13] [main/INFO]: Constructing common components for puzzleslib:main
+[01:21:14] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:21:14] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:21:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:21:15] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[01:21:15] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[01:21:15] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[01:21:15] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[01:21:15] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[01:21:16] [main/INFO]: Loaded 1315 recipes
+[01:21:16] [main/INFO]: Loaded 1478 advancements
+[01:21:17] [main/INFO]: Applied 249 biome modifications to 53 of 72 new biomes in 18.44 ms
+[01:21:17] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[01:21:17] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[01:21:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:21:17] [Server thread/INFO]: Loading properties
+[01:21:17] [Server thread/INFO]: Default game type: SURVIVAL
+[01:21:17] [Server thread/INFO]: Generating keypair
+[01:21:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:21:17] [Server thread/INFO]: Using epoll channel type
+[01:21:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:21:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:21:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:21:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:21:17] [Server thread/INFO]: Preparing level "world"
+[01:21:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:21:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:21:20] [Server thread/INFO]: Time elapsed: 545 ms
+[01:21:20] [Server thread/INFO]: Done (3.013s)! For help, type "help"
+[01:21:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[01:21:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[01:21:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[01:21:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[01:21:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[01:21:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:21:20] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:23:05] [Server thread/INFO]: Elpucarlino[/127.25.77.19:56935] logged in with entity id 85 at (-348.11449595793596, 63.0, 84.83652201953932)
+[01:23:05] [Server thread/INFO]: Elpucarlino joined the game
+[01:25:00] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[01:25:00] [Server thread/INFO]: Elpucarlino left the game
+[01:25:10] [Server thread/INFO]: Stopping the server
+[01:25:10] [Server thread/INFO]: Stopping server
+[01:25:10] [Server thread/INFO]: Saving players
+[01:25:10] [Server thread/INFO]: Saving worlds
+[01:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:25:10] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[01:25:10] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
