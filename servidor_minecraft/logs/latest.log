@@ -176,3 +176,23 @@
 [05:39:53] [Server thread/WARN]: handleDisconnection() called twice
 [05:40:03] [Server thread/INFO]: Elpucarlino[/127.25.77.19:41501] logged in with entity id 455 at (-359.13424213976407, 63.0, 75.64914039854285)
 [05:40:03] [Server thread/INFO]: Elpucarlino joined the game
+[05:47:22] [Server thread/INFO]: [luisb250: Skin changed]
+[05:47:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=62, z=80} class_2338{x=-351, y=63, z=83}
+[05:47:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=62, z=80} class_2338{x=-352, y=62, z=83}
+[05:52:59] [Server thread/INFO]: luisb250 was slain by Zombie
+[05:53:10] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[05:53:10] [Server thread/INFO]: Elpucarlino left the game
+[05:55:02] [Server thread/INFO]: Elpucarlino[/127.25.77.19:42797] logged in with entity id 3388 at (-361.69999998807907, 72.0, 135.92022422356575)
+[05:55:02] [Server thread/INFO]: Elpucarlino joined the game
+[06:02:16] [Server thread/INFO]: luisb250 has made the advancement [Stone Age]
+[06:03:30] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[06:03:30] [Server thread/INFO]: Elpucarlino left the game
+[06:04:24] [Server thread/INFO]: luisb250 has made the advancement [Getting an Upgrade]
+[06:05:04] [Server thread/INFO]: Elpucarlino[/127.25.77.19:40405] logged in with entity id 6117 at (-227.6249835704952, 66.0, 452.84600202581987)
+[06:05:04] [Server thread/INFO]: Elpucarlino joined the game
+[06:07:13] [Server thread/INFO]: Elpucarlino has made the advancement [Stone Age]
+[06:07:26] [Server thread/INFO]: Elpucarlino has made the advancement [Getting an Upgrade]
+[06:14:31] [Server thread/INFO]: Elpucarlino has made the advancement [Acquire Hardware]
+[06:15:01] [Server thread/INFO]: luisb250 has made the advancement [Acquire Hardware]
+[06:15:20] [Server thread/INFO]: Elpucarlino has made the advancement [Isn't It Iron Pick]
+[06:15:29] [Server thread/INFO]: luisb250 has made the advancement [Isn't It Iron Pick]
