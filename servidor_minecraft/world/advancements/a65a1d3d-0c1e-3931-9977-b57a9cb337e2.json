@@ -16,7 +16,8 @@
       "minecraft:taiga": "2025-03-02 20:44:46 +0000",
       "minecraft:river": "2025-03-03 06:21:06 +0000",
       "minecraft:snowy_taiga": "2025-03-02 20:56:47 +0000",
-      "minecraft:snowy_beach": "2025-03-02 20:19:08 +0000"
+      "minecraft:snowy_beach": "2025-03-02 20:19:08 +0000",
+      "minecraft:plains": "2025-03-03 06:26:40 +0000"
     },
     "done": false
   },
@@ -358,6 +359,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-03 06:30:15 +0000",
       "minecraft:skeleton": "2025-03-03 00:41:26 +0000"
     },
     "done": false
@@ -581,7 +583,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-03 06:09:47 +0000",
-      "sweet_berries": "2025-03-03 05:58:29 +0000"
+      "sweet_berries": "2025-03-03 05:58:29 +0000",
+      "beef": "2025-03-03 06:31:50 +0000"
     },
     "done": false
   },
@@ -729,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-03 06:07:13 +0000"
@@ -831,6 +840,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-03 06:31:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-03 06:07:08 +0000"
@@ -849,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 06:14:31 +0000"
@@ -858,6 +891,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-03 06:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-03 06:28:23 +0000"
     },
     "done": true
   },
@@ -891,9 +930,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 06:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-03 06:29:35 +0000"
     },
     "done": true
   },
@@ -963,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 06:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-03 06:21:59 +0000"
@@ -996,6 +1053,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-03 06:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-03 06:31:08 +0000"
     },
     "done": true
   },
