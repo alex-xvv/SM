@@ -206,3 +206,25 @@
 [06:31:38] [Server thread/INFO]: luisb250 was shot by Pillager
 [06:34:08] [Server thread/INFO]: luisb250 has made the advancement [Ol' Betsy]
 [06:36:53] [Server thread/INFO]: Elpucarlino was shot by Pillager
+[06:38:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:38:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:38:49] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:38:49] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:19] [Server thread/INFO]: Elpucarlino has made the advancement [Suit Up]
+[06:44:20] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[06:44:20] [Server thread/INFO]: luisb250 left the game
+[06:44:21] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[06:44:21] [Server thread/INFO]: Elpucarlino left the game
+[06:44:43] [Server thread/INFO]: Stopping the server
+[06:44:43] [Server thread/INFO]: Stopping server
+[06:44:43] [Server thread/INFO]: Saving players
+[06:44:43] [Server thread/INFO]: Saving worlds
+[06:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:44:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:44:43] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[06:44:43] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
