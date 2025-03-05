@@ -1,0 +1,21 @@
+Mar 5, 2025, 3:29:59 AM
+INSTANCE
+java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+	at snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44)
+	at snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21)
+	at snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16)
+	at snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76)
+	at net.minecraft.class_3738.run(class_3738.java:18)
+	at net.minecraft.class_1255.method_18859(class_1255.java:162)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864)
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173)
+	at net.minecraft.class_1255.method_16075(class_1255.java:136)
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846)
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840)
+	at net.minecraft.class_1255.method_5383(class_1255.java:121)
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
