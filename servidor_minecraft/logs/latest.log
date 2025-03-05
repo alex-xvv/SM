@@ -200,3 +200,5 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-151}
 [03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-143}
 [03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-185, y=-46, z=-142}
+[03:55:08] [Server thread/INFO]: luisb250 has made the advancement [Voluntary Exile]
+[03:59:14] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]

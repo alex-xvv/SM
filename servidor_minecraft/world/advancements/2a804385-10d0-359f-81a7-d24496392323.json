@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-03-05 03:40:30 +0000",
       "minecraft:beach": "2025-03-03 05:57:11 +0000",
       "minecraft:forest": "2025-03-03 06:06:31 +0000",
       "minecraft:taiga": "2025-03-03 05:48:09 +0000",
@@ -893,6 +894,7 @@
       "minecraft:pillager": "2025-03-03 06:31:06 +0000",
       "minecraft:cave_spider": "2025-03-04 04:51:03 +0000",
       "minecraft:skeleton": "2025-03-04 04:22:51 +0000",
+      "minecraft:enderman": "2025-03-05 03:41:28 +0000",
       "minecraft:spider": "2025-03-04 04:36:43 +0000",
       "minecraft:zombie": "2025-03-04 03:46:47 +0000",
       "minecraft:creeper": "2025-03-05 03:23:52 +0000",
@@ -1981,6 +1983,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-05 03:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-05 03:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-05 03:05:24 +0000"
@@ -2026,6 +2040,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-03-05 03:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-05 03:55:08 +0000"
     },
     "done": true
   },
