@@ -215,3 +215,26 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [04:46:35] [Server thread/INFO]: Elpucarlino has made the advancement [A Seedy Place]
 [04:54:58] [Server thread/INFO]: Elpucarlino has reached the goal [Hired Help]
 [04:54:58] [Server thread/INFO]: luisb250 has reached the goal [Hired Help]
+[05:01:17] [Server thread/INFO]: luisb250 lost connection: Timed out
+[05:01:17] [Server thread/INFO]: luisb250 left the game
+[05:02:34] [Server thread/INFO]: luisb250[/127.106.240.240:60801] logged in with entity id 27788 at (1376.2098192256158, 70.0, 203.27252487326132)
+[05:02:34] [Server thread/INFO]: luisb250 joined the game
+[05:04:21] [Server thread/INFO]: luisb250 has made the advancement [The Parrots and the Bats]
+[05:07:46] [Server thread/INFO]: Elpucarlino has made the advancement [Voluntary Exile]
+[05:14:31] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[05:14:31] [Server thread/INFO]: Elpucarlino left the game
+[05:14:32] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[05:14:32] [Server thread/INFO]: luisb250 left the game
+[05:14:52] [Server thread/INFO]: Stopping the server
+[05:14:52] [Server thread/INFO]: Stopping server
+[05:14:52] [Server thread/INFO]: Saving players
+[05:14:52] [Server thread/INFO]: Saving worlds
+[05:14:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:14:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:14:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:14:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:14:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:14:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:14:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:14:52] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[05:14:52] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
