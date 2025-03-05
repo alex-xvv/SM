@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-02 21:18:17 +0000",
+      "minecraft:flower_forest": "2025-03-05 21:45:12 +0000",
       "minecraft:savanna_plateau": "2025-03-05 03:41:18 +0000",
       "minecraft:beach": "2025-03-03 05:57:10 +0000",
       "minecraft:forest": "2025-03-03 06:06:07 +0000",
@@ -21,6 +22,7 @@
       "minecraft:frozen_ocean": "2025-03-02 20:59:12 +0000",
       "minecraft:frozen_river": "2025-03-02 20:46:06 +0000",
       "minecraft:jungle": "2025-03-04 03:58:56 +0000",
+      "minecraft:sunflower_plains": "2025-03-05 21:46:36 +0000",
       "minecraft:meadow": "2025-03-04 03:37:03 +0000",
       "minecraft:snowy_beach": "2025-03-02 20:19:08 +0000",
       "minecraft:savanna": "2025-03-04 03:52:19 +0000",
@@ -2514,6 +2516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-03-05 21:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-05 21:19:28 +0000"
@@ -2544,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-05 21:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-05 21:40:18 +0000"
@@ -2571,6 +2585,18 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-05 21:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-03-05 21:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-03-05 21:45:39 +0000"
     },
     "done": true
   },
@@ -2613,6 +2639,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-05 21:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-05 21:54:25 +0000"
     },
     "done": true
   },
