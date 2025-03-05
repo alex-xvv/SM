@@ -202,3 +202,12 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-185, y=-46, z=-142}
 [03:55:08] [Server thread/INFO]: luisb250 has made the advancement [Voluntary Exile]
 [03:59:14] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
+[04:01:19] [Server thread/WARN]: luisb250 was kicked for floating too long!
+[04:01:19] [Server thread/INFO]: luisb250 lost connection: Flying is not enabled on this server
+[04:01:19] [Server thread/INFO]: luisb250 left the game
+[04:01:19] [Server thread/WARN]: handleDisconnection() called twice
+[04:01:40] [ForkJoinPool.commonPool-worker-4/WARN]: Failed to fetch skin: org.mineskin.exception.MineSkinRequestException: Failed to find image from url: Request failed with status code 403
+[04:01:42] [Server thread/INFO]: luisb250[/127.106.240.240:42767] logged in with entity id 15283 at (1369.9739606137307, 71.25220334025373, 228.83402481007408)
+[04:01:42] [Server thread/INFO]: luisb250 joined the game
+[04:02:54] [Server thread/WARN]: luisb250 moved too quickly! 2.4840761559350995,0.0,-9.731719309644774
+[04:10:53] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
