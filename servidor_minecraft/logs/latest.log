@@ -195,3 +195,8 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:32:56] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-176, y=-50, z=-133}
+[03:32:56] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-172, y=-50, z=-135}
+[03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-151}
+[03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-143}
+[03:32:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-185, y=-46, z=-142}
