@@ -209,3 +209,7 @@
 [03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:01:03] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[04:01:03] [Server thread/INFO]: Elpucarlino left the game
+[04:02:12] [Server thread/INFO]: Elpucarlino[/127.25.77.19:55439] logged in with entity id 28611 at (1432.699999988079, 31.0, 172.69999998807907)
+[04:02:12] [Server thread/INFO]: Elpucarlino joined the game
