@@ -228,3 +228,35 @@
 [04:58:33] [Server thread/INFO]: luisb250 fell from a high place
 [04:58:41] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
 [05:00:29] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
+[05:11:11] [Server thread/INFO]: [luisb250: Teleported Elpucarlino to luisb250]
+[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1379, y=72, z=258} class_2338{x=1379, y=70, z=256}
+[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1379, y=72, z=258} class_2338{x=1379, y=70, z=256}
+[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=72, z=258} class_2338{x=1377, y=70, z=258}
+[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=72, z=258} class_2338{x=1377, y=70, z=258}
+[05:25:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1397, y=71, z=191} class_2338{x=1397, y=69, z=191}
+[05:26:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1400, y=72, z=201} class_2338{x=1399, y=70, z=201}
+[05:26:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1398, y=72, z=202} class_2338{x=1397, y=70, z=202}
+[05:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1373, y=70, z=207} class_2338{x=1374, y=69, z=207}
+[05:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1386, y=70, z=257} class_2338{x=1386, y=69, z=259}
+[05:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1386, y=70, z=257} class_2338{x=1386, y=69, z=259}
+[05:29:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=73, z=253} class_2338{x=1379, y=71, z=253}
+[05:29:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=73, z=253} class_2338{x=1379, y=71, z=253}
+[05:35:16] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[05:35:16] [Server thread/INFO]: Elpucarlino left the game
+[05:35:28] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[05:35:28] [Server thread/INFO]: luisb250 left the game
+[05:35:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:35:50] [Server thread/INFO]: exit<--[HERE]
+[05:35:59] [Server thread/INFO]: Stopping the server
+[05:35:59] [Server thread/INFO]: Stopping server
+[05:35:59] [Server thread/INFO]: Saving players
+[05:35:59] [Server thread/INFO]: Saving worlds
+[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:35:59] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[05:35:59] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
