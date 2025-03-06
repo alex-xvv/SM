@@ -360,6 +360,7 @@
       "cooked_porkchop": "2025-03-04 04:22:57 +0000",
       "chicken": "2025-03-05 03:59:51 +0000",
       "bread": "2025-03-04 03:46:54 +0000",
+      "golden_apple": "2025-03-06 04:31:36 +0000",
       "cooked_mutton": "2025-03-03 06:10:20 +0000",
       "glow_berries": "2025-03-04 04:33:35 +0000",
       "sweet_berries": "2025-03-03 06:00:33 +0000",
@@ -2475,6 +2476,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-06 04:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-03-06 04:10:35 +0000"
@@ -2568,6 +2575,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-06 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2025-03-06 04:35:27 +0000"
     },
     "done": true
   },
@@ -2733,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-06 04:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-03-06 04:21:17 +0000"
@@ -2760,6 +2779,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-06 03:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-06 04:33:22 +0000"
     },
     "done": true
   },
