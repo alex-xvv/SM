@@ -900,6 +900,7 @@
       "minecraft:cave_spider": "2025-03-04 04:51:03 +0000",
       "minecraft:skeleton": "2025-03-04 04:22:51 +0000",
       "minecraft:enderman": "2025-03-05 03:41:28 +0000",
+      "minecraft:witch": "2025-03-06 03:11:35 +0000",
       "minecraft:spider": "2025-03-04 04:36:43 +0000",
       "minecraft:zombie": "2025-03-04 03:46:47 +0000",
       "minecraft:creeper": "2025-03-05 03:23:52 +0000",
@@ -2456,9 +2457,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-06 03:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-03-06 02:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-03-06 03:05:59 +0000"
     },
     "done": true
   },
@@ -2621,6 +2634,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-06 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-03-06 03:05:59 +0000"
     },
     "done": true
   },
