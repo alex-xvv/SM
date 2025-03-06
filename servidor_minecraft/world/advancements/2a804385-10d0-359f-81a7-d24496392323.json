@@ -41,9 +41,11 @@
       "minecraft:lush_caves": "2025-03-04 04:21:21 +0000",
       "minecraft:snowy_taiga": "2025-03-03 05:50:33 +0000",
       "minecraft:dripstone_caves": "2025-03-04 03:54:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-06 03:34:45 +0000",
       "minecraft:desert": "2025-03-06 02:44:39 +0000",
       "minecraft:frozen_river": "2025-03-03 05:38:32 +0000",
       "minecraft:jungle": "2025-03-04 03:59:03 +0000",
+      "minecraft:cherry_grove": "2025-03-06 03:48:00 +0000",
       "minecraft:meadow": "2025-03-04 03:37:21 +0000",
       "minecraft:snowy_beach": "2025-03-03 05:38:07 +0000",
       "minecraft:savanna": "2025-03-04 03:52:19 +0000",
@@ -2591,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-06 03:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-06 02:43:37 +0000"
@@ -2615,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-06 03:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-06 03:16:16 +0000"
@@ -2630,6 +2644,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-06 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 03:48:23 +0000"
     },
     "done": true
   },
