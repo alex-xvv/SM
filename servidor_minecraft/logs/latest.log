@@ -1,10 +1,10 @@
-[02:18:29] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:18:29] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[02:56:02] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[02:56:02] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[02:18:29] [main/WARN]: Warnings were found!
+[02:56:02] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[02:18:29] [main/INFO]: Loading 75 mods:
+[02:56:02] [main/INFO]: Loading 75 mods:
 	- architectury 13.0.8
 	- artifacts 12.0.6
 	   |-- cardinal-components-base 6.1.0
@@ -96,167 +96,75 @@
 	   \-- cardinal-components-entity 6.1.0
 	- xaerominimap 25.0.0
 	- xaeroworldmap 1.39.2
-[02:18:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SM/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:18:29] [main/INFO]: Compatibility level set to JAVA_16
-[02:18:29] [main/INFO]: Compatibility level set to JAVA_21
-[02:18:30] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:18:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:18:42] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[02:18:42] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[02:18:42] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[02:18:42] [main/ERROR]: No data fixer registered for artifacts:mimic
-[02:18:42] [main/ERROR]: No data fixer registered for jungle_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for bamboo_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for desert_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for badlands_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for hills_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for savannah_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for mushroom_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for swamp_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for dripstone_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for cave_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for spruce_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for beach_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for snowy_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for ocean_creeper
-[02:18:42] [main/ERROR]: No data fixer registered for birch_creeper
-[02:18:42] [main/INFO]: Constructing common components for easyanvils:main
-[02:18:42] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[02:18:42] [main/INFO]: Constructing common components for easymagic:main
-[02:18:42] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[02:18:42] [main/INFO]: ExpandAbility here, who dis?
-[02:18:43] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
-[02:18:43] [main/INFO]: Constructing common components for puzzleslib:main
-[02:18:44] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[02:18:44] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[02:18:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:18:45] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[02:18:45] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[02:18:45] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[02:18:45] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[02:18:46] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[02:18:47] [main/INFO]: Loaded 1315 recipes
-[02:18:47] [main/INFO]: Loaded 1478 advancements
-[02:18:48] [main/INFO]: Applied 249 biome modifications to 53 of 72 new biomes in 19.35 ms
-[02:18:48] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[02:18:48] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[02:18:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:18:48] [Server thread/INFO]: Loading properties
-[02:18:48] [Server thread/INFO]: Default game type: SURVIVAL
-[02:18:48] [Server thread/INFO]: Generating keypair
-[02:18:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:18:48] [Server thread/INFO]: Using epoll channel type
-[02:18:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:18:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:18:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:18:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:18:48] [Server thread/INFO]: Preparing level "world"
-[02:18:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:54] [Server thread/INFO]: Time elapsed: 621 ms
-[02:18:54] [Server thread/INFO]: Done (5.762s)! For help, type "help"
-[02:18:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[02:18:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[02:18:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[02:18:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[02:18:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[02:18:54] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[02:18:54] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[02:19:10] [Server thread/INFO]: Elpucarlino[/127.25.77.19:54783] logged in with entity id 32 at (1365.3000123250479, 70.5625, 235.62232991646937)
-[02:19:10] [Server thread/INFO]: Elpucarlino joined the game
-[02:19:22] [Server thread/INFO]: luisb250[/127.106.240.240:42429] logged in with entity id 295 at (1367.0671947679837, 70.5, 234.81566870374374)
-[02:19:22] [Server thread/INFO]: luisb250 joined the game
-[02:22:38] [Server thread/INFO]: luisb250 lost connection: Disconnected
-[02:22:38] [Server thread/INFO]: luisb250 left the game
-[02:22:52] [Server thread/INFO]: luisb250[/127.106.240.240:44713] logged in with entity id 765 at (1371.6364496726421, 70.0, 232.75755272404734)
-[02:22:52] [Server thread/INFO]: luisb250 joined the game
-[02:24:49] [Server thread/INFO]: Elpucarlino has made the advancement [Incendium]
-[02:24:49] [Server thread/INFO]: Elpucarlino has made the advancement [We Need to Go Deeper]
-[02:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19553ms or 391 ticks behind
-[02:24:59] [Server thread/INFO]: luisb250 has made the advancement [Incendium]
-[02:24:59] [Server thread/INFO]: luisb250 has made the advancement [We Need to Go Deeper]
-[02:29:48] [Server thread/INFO]: Elpucarlino has made the advancement [Strange Biomes]
-[02:33:27] [Server thread/INFO]: luisb250 has made the advancement [Strange Biomes]
-[02:41:07] [Server thread/INFO]: Named entity class_1472['jeb_'/2958, l='ServerLevel[world]', x=1395.53, y=71.00, z=220.18] died: jeb_ was slain by Elpucarlino
-[02:50:03] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[02:50:03] [Server thread/INFO]: Elpucarlino left the game
-[02:51:33] [Server thread/INFO]: Elpucarlino[/127.25.77.19:49221] logged in with entity id 6657 at (1607.2563211001045, 77.0, 27.910850256936573)
-[02:51:33] [Server thread/INFO]: Elpucarlino joined the game
-[03:05:12] [Server thread/INFO]: luisb250 has made the advancement [Best Friends Forever]
-[03:09:56] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
-[03:12:23] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[03:12:23] [Server thread/INFO]: Elpucarlino left the game
-[03:15:06] [Server thread/INFO]: Elpucarlino[/127.25.77.19:36995] logged in with entity id 16929 at (1368.1122361565403, 70.0, 236.16086762245527)
-[03:15:06] [Server thread/INFO]: Elpucarlino joined the game
-[03:17:35] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[03:17:35] [Server thread/INFO]: Elpucarlino left the game
-[03:19:32] [Server thread/INFO]: Elpucarlino[/127.25.77.19:46007] logged in with entity id 17502 at (1369.2660611941294, 70.0, 234.7150066445974)
-[03:19:32] [Server thread/INFO]: Elpucarlino joined the game
-[03:25:35] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[03:25:35] [Server thread/INFO]: Elpucarlino left the game
-[03:27:11] [Server thread/INFO]: Elpucarlino[/127.25.77.19:34913] logged in with entity id 18759 at (1365.699999988079, 72.0, 127.48541567092668)
-[03:27:11] [Server thread/INFO]: Elpucarlino joined the game
-[03:48:51] [Server thread/INFO]: Villager class_1646['Unemployed'/22351, l='ServerLevel[world]', x=681.30, y=95.00, z=-824.73] died, message: 'Unemployed was slain by Zombie'
-[03:52:29] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:29] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:29] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:29] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:29] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:29] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:52:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[04:01:03] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[04:01:03] [Server thread/INFO]: Elpucarlino left the game
-[04:02:12] [Server thread/INFO]: Elpucarlino[/127.25.77.19:55439] logged in with entity id 28611 at (1432.699999988079, 31.0, 172.69999998807907)
-[04:02:12] [Server thread/INFO]: Elpucarlino joined the game
-[04:10:31] [Server thread/INFO]: Elpucarlino has made the advancement [Minecraft: Trial(s) Edition]
-[04:10:35] [Server thread/INFO]: luisb250 has made the advancement [Minecraft: Trial(s) Edition]
-[04:12:47] [Server thread/INFO]: Elpucarlino has made the advancement [Wax Off]
-[04:17:47] [Server thread/INFO]: luisb250 has made the advancement [Under Lock and Key]
-[04:17:55] [Server thread/INFO]: Elpucarlino has made the advancement [Under Lock and Key]
-[04:21:15] [Server thread/INFO]: luisb250 has made the advancement [Not Today, Thank You]
-[04:22:57] [Server thread/INFO]: luisb250 has made the advancement [Wax Off]
-[04:26:59] [Server thread/INFO]: Elpucarlino has made the advancement [A Throwaway Joke]
-[04:28:04] [Server thread/INFO]: Elpucarlino has made the advancement [Not Today, Thank You]
-[04:34:15] [Server thread/INFO]: luisb250 was slain by Mimic
-[04:34:30] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
-[04:38:30] [Server thread/INFO]: luisb250 has made the advancement [Chest Slayer]
-[04:58:33] [Server thread/INFO]: luisb250 fell from a high place
-[04:58:41] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
-[05:00:29] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
-[05:11:11] [Server thread/INFO]: [luisb250: Teleported Elpucarlino to luisb250]
-[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1379, y=72, z=258} class_2338{x=1379, y=70, z=256}
-[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1379, y=72, z=258} class_2338{x=1379, y=70, z=256}
-[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=72, z=258} class_2338{x=1377, y=70, z=258}
-[05:20:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=72, z=258} class_2338{x=1377, y=70, z=258}
-[05:25:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1397, y=71, z=191} class_2338{x=1397, y=69, z=191}
-[05:26:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1400, y=72, z=201} class_2338{x=1399, y=70, z=201}
-[05:26:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1398, y=72, z=202} class_2338{x=1397, y=70, z=202}
-[05:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1373, y=70, z=207} class_2338{x=1374, y=69, z=207}
-[05:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1386, y=70, z=257} class_2338{x=1386, y=69, z=259}
-[05:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1386, y=70, z=257} class_2338{x=1386, y=69, z=259}
-[05:29:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=73, z=253} class_2338{x=1379, y=71, z=253}
-[05:29:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1378, y=73, z=253} class_2338{x=1379, y=71, z=253}
-[05:35:16] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
-[05:35:16] [Server thread/INFO]: Elpucarlino left the game
-[05:35:28] [Server thread/INFO]: luisb250 lost connection: Disconnected
-[05:35:28] [Server thread/INFO]: luisb250 left the game
-[05:35:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:35:50] [Server thread/INFO]: exit<--[HERE]
-[05:35:59] [Server thread/INFO]: Stopping the server
-[05:35:59] [Server thread/INFO]: Stopping server
-[05:35:59] [Server thread/INFO]: Saving players
-[05:35:59] [Server thread/INFO]: Saving worlds
-[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:35:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:35:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05:35:59] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
-[05:35:59] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[02:56:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SM/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:56:03] [main/INFO]: Compatibility level set to JAVA_16
+[02:56:03] [main/INFO]: Compatibility level set to JAVA_21
+[02:56:03] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:56:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:56:14] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[02:56:14] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[02:56:14] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[02:56:14] [main/ERROR]: No data fixer registered for artifacts:mimic
+[02:56:14] [main/ERROR]: No data fixer registered for jungle_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for bamboo_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for desert_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for badlands_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for hills_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for savannah_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for mushroom_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for swamp_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for dripstone_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for cave_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for spruce_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for beach_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for snowy_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for ocean_creeper
+[02:56:14] [main/ERROR]: No data fixer registered for birch_creeper
+[02:56:14] [main/INFO]: Constructing common components for easyanvils:main
+[02:56:15] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[02:56:15] [main/INFO]: Constructing common components for easymagic:main
+[02:56:15] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[02:56:15] [main/INFO]: ExpandAbility here, who dis?
+[02:56:15] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
+[02:56:15] [main/INFO]: Constructing common components for puzzleslib:main
+[02:56:16] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:56:16] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02:56:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:56:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[02:56:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[02:56:18] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[02:56:18] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[02:56:18] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[02:56:19] [main/INFO]: Loaded 1315 recipes
+[02:56:19] [main/INFO]: Loaded 1478 advancements
+[02:56:20] [main/INFO]: Applied 249 biome modifications to 53 of 72 new biomes in 20.57 ms
+[02:56:20] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[02:56:20] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[02:56:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:56:20] [Server thread/INFO]: Loading properties
+[02:56:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:56:20] [Server thread/INFO]: Generating keypair
+[02:56:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:56:20] [Server thread/INFO]: Using epoll channel type
+[02:56:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:56:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:56:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:56:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:56:20] [Server thread/INFO]: Preparing level "world"
+[02:56:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:56:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:56:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:56:25] [Server thread/INFO]: Time elapsed: 815 ms
+[02:56:25] [Server thread/INFO]: Done (4.666s)! For help, type "help"
+[02:56:25] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[02:56:25] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[02:56:25] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[02:56:25] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[02:56:25] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[02:56:25] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02:56:25] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02:56:36] [Server thread/INFO]: Elpucarlino[/127.25.77.19:40977] logged in with entity id 33 at (1365.0662624081833, 71.0, 236.69234901093333)
+[02:56:36] [Server thread/INFO]: Elpucarlino joined the game
+[02:59:48] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
+[03:03:38] [Server thread/WARN]: Elpucarlino moved too quickly! -10.80084087489604,0.0,1.0146551938171058
