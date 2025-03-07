@@ -168,3 +168,10 @@
 [02:56:36] [Server thread/INFO]: Elpucarlino joined the game
 [02:59:48] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
 [03:03:38] [Server thread/WARN]: Elpucarlino moved too quickly! -10.80084087489604,0.0,1.0146551938171058
+[03:13:55] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@7ea20d2b}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[03:14:27] [Server thread/WARN]: Elpucarlino moved too quickly! -1.8017458109006839,-147.0,1.6981205125961196
+[03:17:13] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[03:17:13] [Server thread/INFO]: Elpucarlino left the game
+[03:19:30] [Server thread/INFO]: Elpucarlino[/127.25.77.19:53441] logged in with entity id 8480 at (1208.5569823652695, 66.0, 572.007719514713)
+[03:19:30] [Server thread/INFO]: Elpucarlino joined the game
+[03:26:14] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
