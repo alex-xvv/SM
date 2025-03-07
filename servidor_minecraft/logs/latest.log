@@ -175,3 +175,18 @@
 [03:19:30] [Server thread/INFO]: Elpucarlino[/127.25.77.19:53441] logged in with entity id 8480 at (1208.5569823652695, 66.0, 572.007719514713)
 [03:19:30] [Server thread/INFO]: Elpucarlino joined the game
 [03:26:14] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
+[03:35:55] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[03:35:55] [Server thread/INFO]: Elpucarlino left the game
+[03:36:06] [Server thread/INFO]: Stopping the server
+[03:36:06] [Server thread/INFO]: Stopping server
+[03:36:06] [Server thread/INFO]: Saving players
+[03:36:06] [Server thread/INFO]: Saving worlds
+[03:36:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:36:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:36:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:36:06] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[03:36:06] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
