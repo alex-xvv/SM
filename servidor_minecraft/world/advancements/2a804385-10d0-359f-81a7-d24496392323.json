@@ -2973,9 +2973,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-03-08 05:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-08 05:08:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-03-08 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-08 05:13:23 +0000"
     },
     "done": true
   },
