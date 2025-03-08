@@ -174,3 +174,21 @@
 [05:24:17] [Server thread/INFO]: Elpucarlino has made the advancement [Hide and Seek]
 [05:48:01] [Server thread/INFO]: Elpucarlino fell from a high place
 [05:48:09] [Server thread/INFO]: [luisb250: Teleported Elpucarlino to luisb250]
+[05:57:25] [Server thread/INFO]: Elpucarlino has made the advancement [Crafting a New Look]
+[05:59:19] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[05:59:19] [Server thread/INFO]: Elpucarlino left the game
+[05:59:24] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[05:59:24] [Server thread/INFO]: luisb250 left the game
+[06:00:00] [Server thread/INFO]: Stopping the server
+[06:00:00] [Server thread/INFO]: Stopping server
+[06:00:00] [Server thread/INFO]: Saving players
+[06:00:00] [Server thread/INFO]: Saving worlds
+[06:00:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:00:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:00:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:00:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:00:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:00:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:00:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:00:00] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[06:00:00] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
