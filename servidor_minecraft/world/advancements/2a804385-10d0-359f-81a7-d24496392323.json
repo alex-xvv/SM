@@ -906,17 +906,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-03 06:31:06 +0000",
-      "minecraft:cave_spider": "2025-03-04 04:51:03 +0000",
       "minecraft:skeleton": "2025-03-04 04:22:51 +0000",
       "minecraft:phantom": "2025-03-06 05:14:23 +0000",
+      "minecraft:witch": "2025-03-06 03:11:35 +0000",
+      "minecraft:husk": "2025-03-04 05:26:21 +0000",
+      "minecraft:cave_spider": "2025-03-04 04:51:03 +0000",
       "minecraft:breeze": "2025-03-06 04:15:03 +0000",
       "minecraft:enderman": "2025-03-05 03:41:28 +0000",
-      "minecraft:witch": "2025-03-06 03:11:35 +0000",
+      "minecraft:silverfish": "2025-03-08 04:45:50 +0000",
       "minecraft:spider": "2025-03-04 04:36:43 +0000",
       "minecraft:zombie": "2025-03-04 03:46:47 +0000",
       "minecraft:creeper": "2025-03-05 03:23:52 +0000",
-      "minecraft:drowned": "2025-03-04 05:32:25 +0000",
-      "minecraft:husk": "2025-03-04 05:26:21 +0000"
+      "minecraft:drowned": "2025-03-04 05:32:25 +0000"
     },
     "done": false
   },
@@ -2969,6 +2970,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-06 05:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-03-08 04:49:14 +0000"
     },
     "done": true
   },
