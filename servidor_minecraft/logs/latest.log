@@ -168,3 +168,4 @@
 [02:48:53] [Server thread/INFO]: Elpucarlino joined the game
 [02:49:02] [Server thread/INFO]: luisb250[/127.106.240.240:54465] logged in with entity id 327 at (1366.5003411935766, 70.5, 234.60587935555535)
 [02:49:02] [Server thread/INFO]: luisb250 joined the game
+[03:26:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1297, y=67, z=645} class_2338{x=1297, y=65, z=646}
