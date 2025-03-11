@@ -169,3 +169,17 @@
 [02:49:02] [Server thread/INFO]: luisb250[/127.106.240.240:54465] logged in with entity id 327 at (1366.5003411935766, 70.5, 234.60587935555535)
 [02:49:02] [Server thread/INFO]: luisb250 joined the game
 [03:26:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1297, y=67, z=645} class_2338{x=1297, y=65, z=646}
+[03:28:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1297, y=63, z=680} class_2338{x=1297, y=62, z=679}
+[03:28:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1297, y=63, z=682} class_2338{x=1297, y=62, z=681}
+[03:28:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1297, y=63, z=684} class_2338{x=1297, y=62, z=682}
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3153698183641609
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.2855706194935692
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.3444689000272092
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.31307779356609444
+[03:39:31] [Server thread/WARN]: Horse (vehicle of luisb250) moved wrongly! 0.2790147175242055
+[03:45:45] [Server thread/INFO]: [luisb250: Teleported Elpucarlino to luisb250]
