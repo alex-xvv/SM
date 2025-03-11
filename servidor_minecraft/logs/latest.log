@@ -191,3 +191,22 @@
 [04:41:45] [Server thread/WARN]: luisb250 moved too quickly! 0.19133549562525332,1.0,10.165031318456897
 [04:45:51] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
 [04:49:11] [Server thread/WARN]: luisb250 moved too quickly! 3.5747621593029635,0.2712241076924897,-9.519952748375488
+[04:50:13] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[04:50:13] [Server thread/INFO]: Elpucarlino left the game
+[04:50:15] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[04:50:15] [Server thread/INFO]: luisb250 left the game
+[04:50:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:50:31] [Server thread/INFO]: STOP<--[HERE]
+[04:50:34] [Server thread/INFO]: Stopping the server
+[04:50:34] [Server thread/INFO]: Stopping server
+[04:50:34] [Server thread/INFO]: Saving players
+[04:50:34] [Server thread/INFO]: Saving worlds
+[04:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:50:34] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:50:34] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
