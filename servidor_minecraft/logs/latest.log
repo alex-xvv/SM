@@ -167,3 +167,8 @@
 [22:17:26] [Server thread/INFO]: Elpucarlino[/127.25.77.19:47411] logged in with entity id 36 at (1365.5, 70.5, 236.5)
 [22:17:26] [Server thread/INFO]: Elpucarlino joined the game
 [22:24:14] [Server thread/WARN]: Elpucarlino moved too quickly! -8.68362053882106,-0.5163892264615839,5.035788497378348
+[22:55:30] [Server thread/INFO]: Elpucarlino lost connection: Timed out
+[22:55:30] [Server thread/INFO]: Elpucarlino left the game
+[22:55:30] [Server thread/WARN]: handleDisconnection() called twice
+[22:56:00] [Server thread/INFO]: Elpucarlino[/127.25.77.19:60585] logged in with entity id 6913 at (1371.4273699938187, 70.0, 228.4632328575029)
+[22:56:00] [Server thread/INFO]: Elpucarlino joined the game
