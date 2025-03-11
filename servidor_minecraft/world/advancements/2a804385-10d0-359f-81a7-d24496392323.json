@@ -3039,6 +3039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-11 03:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-03-11 02:57:56 +0000"
@@ -3078,6 +3084,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-03-11 02:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-11 03:03:34 +0000"
     },
     "done": true
   },
