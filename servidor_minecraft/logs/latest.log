@@ -166,3 +166,21 @@
 [02:35:51] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [02:37:17] [Server thread/INFO]: Elpucarlino[/127.25.77.19:53877] logged in with entity id 37 at (1364.5, 70.5625, 234.5)
 [02:37:17] [Server thread/INFO]: Elpucarlino joined the game
+[04:28:27] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
+[04:32:12] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1110.500000, 400.000000, 246.500000]
+[04:35:04] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
+[04:35:33] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[04:35:33] [Server thread/INFO]: Elpucarlino left the game
+[04:36:09] [Server thread/INFO]: Stopping the server
+[04:36:09] [Server thread/INFO]: Stopping server
+[04:36:09] [Server thread/INFO]: Saving players
+[04:36:09] [Server thread/INFO]: Saving worlds
+[04:36:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:36:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:36:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:36:09] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:36:09] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
