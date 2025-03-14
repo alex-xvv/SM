@@ -391,6 +391,7 @@
       "minecraft:spider": "2025-03-04 04:36:43 +0000",
       "minecraft:zombie": "2025-03-04 03:49:25 +0000",
       "minecraft:creeper": "2025-03-04 03:44:39 +0000",
+      "minecraft:drowned": "2025-03-14 03:55:24 +0000",
       "minecraft:zombie_villager": "2025-03-11 03:27:49 +0000"
     },
     "done": false
@@ -3742,12 +3743,6 @@
       "has_glass_pane": "2025-03-11 23:27:58 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-14 03:45:50 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
