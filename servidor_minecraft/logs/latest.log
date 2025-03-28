@@ -187,3 +187,56 @@
 [04:05:02] [Server thread/INFO]: Elpucarlino has reached the goal [Beyond the Embers]
 [04:05:50] [Server thread/INFO]: Elpucarlino has made the advancement [Those Were the Days]
 [04:05:57] [Server thread/INFO]: Elpucarlino has made the advancement [War Pigs]
+[04:06:48] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:07:03] [Server thread/INFO]: Locating element incendium:abandoned_tower took 179 ms
+[04:07:06] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 2320.500000, 71.000000, 368.500000]
+[04:07:08] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=372, y=120, z=-264}
+[04:07:09] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.806526110008996,0.0
+[04:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[04:07:09] [Server thread/INFO]: Elpucarlino has made the advancement [Hellish Paradise]
+[04:07:09] [Server thread/INFO]: Elpucarlino has made the advancement [Rescue Mission]
+[04:07:19] [Server thread/INFO]: Elpucarlino has made the advancement [The Floor is Tears]
+[04:08:28] [Server thread/INFO]: Elpucarlino has completed the challenge [Hot Tourist Destinations]
+[04:08:37] [Server thread/INFO]: Elpucarlino has made the advancement [Hellfire Mantle]
+[04:08:47] [Server thread/INFO]: Elpucarlino has made the advancement [Radioactive]
+[04:09:49] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:10:38] [Server thread/INFO]: Locating element incendium:piglin_village took 270 ms
+[04:10:41] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 752.500000, 71.000000, -639.500000]
+[04:10:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=147, y=169, z=-166}
+[04:10:46] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.806526110008996,0.0
+[04:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4136ms or 82 ticks behind
+[04:11:04] [Server thread/INFO]: Named entity class_4836['Village Brewer'/13501, l='ServerLevel[world]', x=773.89, y=58.92, z=-640.06] died: Village Brewer was slain by Wither Skeleton
+[04:11:07] [Server thread/INFO]: Named entity class_4836['Village Brewer'/13499, l='ServerLevel[world]', x=775.17, y=60.00, z=-641.18] died: Village Brewer was slain by Wither Skeleton
+[04:11:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=147, y=169, z=-166}
+[04:11:22] [Server thread/INFO]: Named entity class_4836['Village Miner'/13496, l='ServerLevel[world]', x=757.61, y=55.00, z=-645.62] died: Village Miner was slain by Wither Skeleton
+[04:11:45] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=147, y=169, z=-166}
+[04:12:00] [Server thread/INFO]: Elpucarlino has reached the goal [Piglin Pillage]
+[04:12:28] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:12:48] [Server thread/INFO]: Locating element incendium:pipeline took 1 ms
+[04:12:51] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -847.500000, 71.000000, 1344.500000]
+[04:13:05] [Server thread/INFO]: Elpucarlino has made the advancement [Pipe Dream]
+[04:14:38] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:14:53] [Server thread/INFO]: Locating element incendium:sanctum took 392 ms
+[04:14:55] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1088.500000, 71.000000, 688.500000]
+[04:14:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-68, y=-51, z=53}
+[04:14:59] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-68, y=-51, z=70}
+[04:15:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-229, y=-45, z=70}
+[04:15:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-227, y=-45, z=71}
+[04:15:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=72}
+[04:15:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=69}
+[04:15:00] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.806526110008996,0.0
+[04:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
+[04:15:00] [Server thread/INFO]: Elpucarlino has reached the goal [An Illager Refuge?]
+[04:15:02] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-54, z=56}
+[04:15:04] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-197, y=-53, z=89}
+[04:15:06] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-195, y=-53, z=95}
+[04:15:06] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-48, y=-51, z=112}
+[04:15:06] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-48, y=-51, z=121}
+[04:15:08] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-44, y=-51, z=112}
+[04:15:08] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-44, y=-51, z=121}
+[04:15:08] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-40, y=-51, z=112}
+[04:15:08] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-40, y=-51, z=121}
+[04:15:22] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/14907, l='ServerLevel[world]', x=1139.70, y=30.39, z=722.30] died: Sanctum Cultist tried to swim in lava
+[04:15:22] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/14910, l='ServerLevel[world]', x=1139.70, y=30.65, z=733.30] died: Sanctum Cultist tried to swim in lava
+[04:15:39] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/15167, l='ServerLevel[world]', x=1190.70, y=57.00, z=739.87] died: Sanctum Cultist went up in flames
+[04:15:55] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/14953, l='ServerLevel[world]', x=1145.56, y=37.00, z=747.78] died: Sanctum Cultist went up in flames
