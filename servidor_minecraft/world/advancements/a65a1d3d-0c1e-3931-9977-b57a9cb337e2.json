@@ -2738,7 +2738,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-06 02:24:59 +0000"
+      "minecraft:crimson_forest": "2025-03-28 03:54:10 +0000",
+      "minecraft:nether_wastes": "2025-03-06 02:24:59 +0000",
+      "minecraft:soul_sand_valley": "2025-03-28 03:55:11 +0000"
     },
     "done": false
   },
@@ -2750,6 +2752,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-03-28 04:00:46 +0000",
+      "incendium:infernal_dunes": "2025-03-28 03:56:57 +0000",
       "incendium:inverted_forest": "2025-03-06 02:29:48 +0000"
     },
     "done": false
@@ -3753,6 +3757,36 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2025-03-14 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/conquer_castle": {
+    "criteria": {
+      "requirement": "2025-03-28 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-03-28 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-03-28 04:00:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-03-28 04:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-28 03:56:23 +0000"
     },
     "done": true
   },

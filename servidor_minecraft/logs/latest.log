@@ -169,3 +169,21 @@
 [03:46:16] [Server thread/INFO]: Elpucarlino joined the game
 [03:52:02] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
 [03:53:31] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[03:56:23] [Server thread/INFO]: Elpucarlino has made the advancement [A Terrible Fortress]
+[03:56:57] [Server thread/INFO]: Elpucarlino has made the advancement [Darude - Firestorm]
+[04:00:11] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:00:40] [Server thread/INFO]: Locating element incendium:forbidden_castle took 1729 ms
+[04:00:43] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -927.500000, 71.000000, 528.500000]
+[04:00:44] [Server thread/INFO]: Elpucarlino has completed the challenge [The Conqueror]
+[04:00:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-223, y=15, z=-22}
+[04:00:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-218, y=10, z=-283}
+[04:00:46] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.806526110008996,0.0
+[04:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[04:00:46] [Server thread/INFO]: Elpucarlino has made the advancement [The Dust Settles]
+[04:00:46] [Server thread/INFO]: Elpucarlino has reached the goal [In the Hall of the Piglin King]
+[04:04:36] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:04:56] [Server thread/INFO]: Locating element incendium:infernal_altar took 13 ms
+[04:05:01] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -239.500000, 71.000000, 1008.500000]
+[04:05:02] [Server thread/INFO]: Elpucarlino has reached the goal [Beyond the Embers]
+[04:05:50] [Server thread/INFO]: Elpucarlino has made the advancement [Those Were the Days]
+[04:05:57] [Server thread/INFO]: Elpucarlino has made the advancement [War Pigs]
