@@ -240,3 +240,36 @@
 [04:15:22] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/14910, l='ServerLevel[world]', x=1139.70, y=30.65, z=733.30] died: Sanctum Cultist tried to swim in lava
 [04:15:39] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/15167, l='ServerLevel[world]', x=1190.70, y=57.00, z=739.87] died: Sanctum Cultist went up in flames
 [04:15:55] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/14953, l='ServerLevel[world]', x=1145.56, y=37.00, z=747.78] died: Sanctum Cultist went up in flames
+[04:16:19] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:16:32] [Server thread/INFO]: Locating element incendium:ruined_lab took 3 ms
+[04:16:35] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -1519.500000, 71.000000, 736.500000]
+[04:16:36] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.806526110008996,0.0
+[04:16:36] [Server thread/INFO]: Elpucarlino has reached the goal [Alchemical Experiments]
+[04:16:36] [Server thread/INFO]: Elpucarlino has made the advancement [Ancient Battlefield]
+[04:19:31] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:19:52] [Server thread/INFO]: Locating element incendium:quartz_kitchen took 2 ms
+[04:19:54] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -1487.500000, 71.500000, -607.500000]
+[04:19:56] [Worker-Main-4/WARN]: Skipping Entity with id 
+[04:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[04:19:57] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=303, y=98, z=248}
+[04:20:26] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-44, y=-51, z=121}
+[04:20:26] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-40, y=-51, z=121}
+[04:20:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-195, y=-53, z=95}
+[04:20:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-48, y=-51, z=121}
+[04:20:30] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-44, y=-51, z=112}
+[04:20:30] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-40, y=-51, z=112}
+[04:20:30] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-197, y=-53, z=89}
+[04:20:30] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-48, y=-51, z=112}
+[04:20:34] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-229, y=-45, z=70}
+[04:20:34] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-227, y=-45, z=71}
+[04:20:34] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=72}
+[04:20:34] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=69}
+[04:20:45] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-54, z=56}
+[04:20:46] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-68, y=-51, z=70}
+[04:21:15] [Server thread/INFO]: Named entity class_1604['Sanctum Cultist'/17373, l='ServerLevel[world]', x=-1457.66, y=37.03, z=-432.22] died: Sanctum Cultist tried to swim in lava
+[04:21:44] [Server thread/INFO]: Locating element incendium:infernal_altar took 91 ms
+[04:21:47] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -1519.500000, 53.000000, -2223.500000]
+[04:21:49] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.80652611000901,0.0
+[04:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[04:22:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=303, y=98, z=248}
+[04:23:18] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
