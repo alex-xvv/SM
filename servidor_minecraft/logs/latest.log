@@ -273,3 +273,5 @@
 [04:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
 [04:22:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=303, y=98, z=248}
 [04:23:18] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 182.500000, 71.500000, 26.500000]
+[04:26:38] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[04:26:38] [Server thread/INFO]: Elpucarlino left the game
