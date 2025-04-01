@@ -169,3 +169,9 @@
 [00:53:18] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 2760.500000, 70.000000, 664.500000]
 [00:53:22] [Server thread/WARN]: Elpucarlino moved too quickly! 0.0,-10.656526104048538,0.0
 [00:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4151ms or 83 ticks behind
+[00:58:10] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1370.500000, 70.500000, 230.500000]
+[01:01:57] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 184.500000, 70.000000, 1848.500000]
+[01:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[01:06:57] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 8880.500000, 70.000000, 2496.500000]
+[01:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
+[01:07:09] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 8880.500000, 200.000000, 2496.500000]
