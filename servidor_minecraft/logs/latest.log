@@ -194,3 +194,16 @@
 [01:17:32] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
 [01:17:36] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
 [01:17:36] [Server thread/INFO]: Elpucarlino left the game
+[01:18:11] [Server thread/INFO]: Stopping the server
+[01:18:11] [Server thread/INFO]: Stopping server
+[01:18:11] [Server thread/INFO]: Saving players
+[01:18:11] [Server thread/INFO]: Saving worlds
+[01:18:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:18:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:18:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:18:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:18:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:18:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:18:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:18:11] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[01:18:11] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
