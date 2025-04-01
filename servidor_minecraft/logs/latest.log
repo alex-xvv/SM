@@ -178,3 +178,38 @@
 [04:32:01] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [04:32:01] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [04:32:01] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04:34:36] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -6023.500000, 91.000000, -535.500000]
+[04:34:38] [Worker-Main-4/ERROR]: Failed to parse vibration listener for Sculk Shrieker: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]'
+[04:34:38] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-201}
+[04:34:38] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-58, z=-205}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-423, y=-50, z=-211}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-420, y=-50, z=-211}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-193, y=-45, z=-211}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-210}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-49, z=-219}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-189, y=-45, z=-211}
+[04:34:40] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-191, y=-45, z=-211}
+[04:34:40] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-413, y=-49, z=-217}
+[04:34:40] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-418, y=-50, z=-208}
+[04:34:52] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -6023.500000, 150.000000, -535.500000]
+[04:35:32] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -4631.500000, 97.000000, 3032.500000]
+[04:35:42] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -4631.500000, 100.000000, 3032.500000]
+[04:35:47] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to -4631.500000, 200.000000, 3032.500000]
+[04:37:20] [Server thread/INFO]: Elpucarlino has made the advancement [Spooky Scary Skeleton]
+[04:37:50] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@6f369bc1}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
+[04:37:54] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@6f369bc1}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[04:39:54] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[04:39:54] [Server thread/INFO]: Elpucarlino left the game
+[04:40:04] [Server thread/INFO]: Stopping the server
+[04:40:04] [Server thread/INFO]: Stopping server
+[04:40:04] [Server thread/INFO]: Saving players
+[04:40:04] [Server thread/INFO]: Saving worlds
+[04:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:40:05] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:40:05] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
