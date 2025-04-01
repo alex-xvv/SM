@@ -175,3 +175,22 @@
 [01:06:57] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 8880.500000, 70.000000, 2496.500000]
 [01:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
 [01:07:09] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 8880.500000, 200.000000, 2496.500000]
+[01:07:20] [Worker-Main-2/ERROR]: Failed to parse vibration listener for Sculk Shrieker: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]'
+[01:07:20] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-201}
+[01:07:20] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-58, z=-205}
+[01:07:20] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=-418, y=-50, z=-208}
+[01:07:20] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=-276, y=-57, z=-243}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-423, y=-50, z=-211}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-193, y=-45, z=-211}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-210}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-49, z=-219}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-189, y=-45, z=-211}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-191, y=-45, z=-211}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-420, y=-50, z=-211}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-413, y=-49, z=-217}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-274, y=-57, z=-245}
+[01:07:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-277, y=-57, z=-244}
+[01:17:06] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1370.500000, 70.500000, 230.500000]
+[01:17:32] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
+[01:17:36] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[01:17:36] [Server thread/INFO]: Elpucarlino left the game

@@ -31,6 +31,7 @@
       "minecraft:savanna_plateau": "2025-03-05 03:41:18 +0000",
       "minecraft:beach": "2025-03-03 05:57:10 +0000",
       "minecraft:stony_peaks": "2025-03-28 20:59:46 +0000",
+      "minecraft:mangrove_swamp": "2025-04-01 01:07:50 +0000",
       "minecraft:sparse_jungle": "2025-03-04 03:59:21 +0000",
       "minecraft:river": "2025-03-03 06:21:06 +0000",
       "minecraft:lukewarm_ocean": "2025-03-28 21:19:04 +0000",
@@ -401,7 +402,8 @@
       "minecraft:zombie": "2025-03-04 03:49:25 +0000",
       "minecraft:creeper": "2025-03-04 03:44:39 +0000",
       "minecraft:drowned": "2025-03-14 03:55:24 +0000",
-      "minecraft:zombie_villager": "2025-03-11 03:27:49 +0000"
+      "minecraft:zombie_villager": "2025-03-11 03:27:49 +0000",
+      "minecraft:slime": "2025-04-01 01:09:37 +0000"
     },
     "done": false
   },
@@ -2603,6 +2605,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:frog": "2025-04-01 01:13:03 +0000",
       "minecraft:sheep": "2025-03-05 21:35:34 +0000"
     },
     "done": false
@@ -4045,6 +4048,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 01:16:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-01 00:55:29 +0000"
@@ -4054,6 +4129,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-04-01 00:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 01:09:50 +0000"
     },
     "done": true
   },
@@ -4081,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 01:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-04-01 00:55:49 +0000"
@@ -4102,6 +4189,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-01 00:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 01:09:50 +0000"
     },
     "done": true
   },
